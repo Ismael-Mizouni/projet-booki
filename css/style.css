@@ -427,9 +427,9 @@ figure {
   height: 100%;
   box-shadow: 0 0px 5px #c0c0c0;
 }
-.activity-card:hover {
+/* .activity-card:hover {
   transform: scale(1.1);
-}
+} */
 .activity-title {
   display: flex;
   margin: 0;
