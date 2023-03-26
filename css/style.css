@@ -315,6 +315,10 @@ figure {
   background-color: white;
 }
 
+.popular-block {
+  margin-top: 30px;
+}
+
 .popular-block figure {
   display: flex;
   flex-direction: row;
