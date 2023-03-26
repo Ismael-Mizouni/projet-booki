@@ -606,7 +606,6 @@ figure {
     display: flex;
     flex-direction: column;
     width: 90%;
-    margin-left: 0 auto;
   }
   .filter-ul li {
     margin-bottom: 10px;
